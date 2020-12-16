@@ -1,0 +1,13 @@
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Polimorfismo_Override\bin\Debug\netcoreapp3.1\_Polimorfismo_Override.exe
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Polimorfismo_Override\bin\Debug\netcoreapp3.1\_Polimorfismo_Override.deps.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Polimorfismo_Override\bin\Debug\netcoreapp3.1\_Polimorfismo_Override.runtimeconfig.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Polimorfismo_Override\bin\Debug\netcoreapp3.1\_Polimorfismo_Override.runtimeconfig.dev.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Polimorfismo_Override\bin\Debug\netcoreapp3.1\_Polimorfismo_Override.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Polimorfismo_Override\bin\Debug\netcoreapp3.1\_Polimorfismo_Override.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Polimorfismo_Override\obj\Debug\netcoreapp3.1\_Polimorfismo_Override.csprojAssemblyReference.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Polimorfismo_Override\obj\Debug\netcoreapp3.1\_Polimorfismo_Override.AssemblyInfoInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Polimorfismo_Override\obj\Debug\netcoreapp3.1\_Polimorfismo_Override.AssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Polimorfismo_Override\obj\Debug\netcoreapp3.1\_Polimorfismo_Override.csproj.CoreCompileInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Polimorfismo_Override\obj\Debug\netcoreapp3.1\_Polimorfismo_Override.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Polimorfismo_Override\obj\Debug\netcoreapp3.1\_Polimorfismo_Override.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Polimorfismo_Override\obj\Debug\netcoreapp3.1\_Polimorfismo_Override.genruntimeconfig.cache
